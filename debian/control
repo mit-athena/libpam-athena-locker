@@ -2,8 +2,8 @@ Source: libpam-athena-locker
 Section: debathena/libs
 Priority: optional
 Maintainer: Debathena Project <debathena@mit.edu>
-Standards-Version: 3.7.2
-Build-Depends: @cdbs@, libpam0g-dev, libopenafs-dev
+Standards-Version: 3.9.3
+Build-Depends: cdbs, debhelper, dh-buildinfo, libpam0g-dev, libopenafs-dev
 
 Package: libpam-athena-locker
 Architecture: any
