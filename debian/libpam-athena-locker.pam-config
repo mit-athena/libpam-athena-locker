@@ -1,6 +1,0 @@
-Name: Athena: attach locker at login
-Default: yes
-Priority: 19
-Session-Type: Additional
-Session:
-	optional	pam_athena_locker.so
